@@ -3,14 +3,12 @@ The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Color
 
 ![](images/pcb_front.jpeg)
 
+# Ordering
+
+
+
 # Disclaimer
-You will need to transfer components from a working Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
-
-**Note**: There are multiple revisions of the OEM CGB PCBs (CPU-01 through CPU-06).  CGB-CPU revisions 01-05 have slight differences in passive components,  but they *should* be compatible with this PCB.  **CGB-CPU revision 06 is incompatible and cannot be used with this PCB.**  
-
-I have personally tested this PCB and successfully created a working SZ Pocket Color using components from an OEM **CGB-CPU-04**. All features have been confirmed as working with the unit that I have created. ***However, I cannot guarantee a fully working unit if you undertake this project as there are too many factors that can cause issues, so please acknowledge this disclaimer and order/use this PCB at your own risk. Unless it is a PCB design issue, I will be providing limited technical support for any issues you may have.***
-
-If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
+Populating this PCB will require micro-soldering surface mount components and a QFN chip.  If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
 # Ordering
 
@@ -25,7 +23,7 @@ You can also order the boards through PCBWay as a shared project (in any color y
 
 # PCB Bill of Materials & Assembly
 
-As mentioned above in the disclaimer, assembly of this PCB requires advance soldering experience and ability to self-troubleshoot any issues.
+As mentioned above in the disclaimer, assembly of this PCB requires micro-soldering experience.
 
 Since this PCB uses the original CGB schematics, you are able to directly transplant components from a donor console to create a working SZ Pocket Color.  Components can also be ordered through an electronic components distributor (e.g. digikey, mouser, etc.) and can be found in the Bill of Materials (BOM) unless otherwise noted as required from the donor CGB (e.g. CGB CPU, Crystal, etc.). 
 
