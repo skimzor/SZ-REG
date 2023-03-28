@@ -11,7 +11,7 @@ A version of the SZ Regulator without any silkscreen/image is available in this 
 
 *Customizable*
 
-If you would like a SZ Regulator with a customized silkscreen image, you can make a request through my Ko-fi.  I will convert the image, place it on the SZ Regulator front, and send you the gerber so that you can order from a PCB fab.
+If you would like a SZ Regulator with a customized silkscreen image, you can make a request through my Ko-fi.  I will convert an image that you provide, place it on the SZ Regulator, and send you the gerber so that you can order from a PCB fab.
 
 - [Ko-fi](https://ko-fi.com/skimzor)
 
