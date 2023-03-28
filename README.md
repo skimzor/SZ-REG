@@ -1,5 +1,5 @@
-# SZ Pocket Color (SZ-POCO) PCB
-Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color into the form-factor of a Game Boy Pocket.
+# SZ Regulator (SZ-REG) PCB
+The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Color or Game Boy Pocket.
 
 ![](images/sz-poco_complete.jpeg)
 
