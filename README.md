@@ -3,18 +3,21 @@ The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Color
 
 ![](images/pcb_front.jpeg)
 
-# Ordering
+# Features
 
-The SZ Pocket Color PCB will be available for purchase through Ko-fi and Etsy:
+- Customizable (see below)
 
-- [Ko-fi](https://ko-fi.com/skimzor)
-- Etsy *(coming soon)*
+# Ordering / Customization
 
-You can also order the boards through PCBWay as a shared project (in any color you want):
+A version of the SZ Regulator without any silkscreen image has uploaded to this github. Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of at least 1.0mm and in your favorite color.  
+
+If you would like to have an image customized 
 
 - PCBWay *(coming soon)*
 
-# PCB Bill of Materials & Assembly
+# Bill of Materials
+
+# Disclaimer
 
 Assembly of this PCB requires micro-soldering experience; you will be required to solder a QFN chip as well as SMD components.
 
