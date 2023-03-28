@@ -8,7 +8,7 @@ The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Color
 
 
 # Disclaimer
-Populating this PCB will require micro-soldering surface mount components and a QFN chip.  If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
+Populating this PCB will require micro-soldering surface mount components and a QFN chip.  
 
 # Ordering
 
@@ -25,30 +25,7 @@ You can also order the boards through PCBWay as a shared project (in any color y
 
 Assembly of this PCB requires micro-soldering experience. You will be required to solder a QFN chip.
 
-Since this PCB uses the original CGB schematics, you are able to directly transplant components from a donor console to create a working SZ Pocket Color.  Components can also be ordered through an electronic components distributor (e.g. digikey, mouser, etc.) and can be found in the Bill of Materials (BOM) unless otherwise noted as required from the donor CGB (e.g. CGB CPU, Crystal, etc.). 
-
-**Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R3 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
-
-Additionally, not all components from the donor Game Boy Color will be used. The SZ Pocket Color can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails have been omitted from the SZ Pocket Color PCB.
-
-# Additional Parts
-
-In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"discord"** for 10% off your order.
-
-- **Game Boy Color IPS Kit:** You will need the following Game Boy Color IPS Kit with Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO).  Any other Game Boy Color IPS Kit will not work; OEM Game Boy Color screens will not work either. [(Link)](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228) 
-- **Game Boy Pocket Shell:** It is recommended to get the Funnyplaying IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim it to fit the LCD [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut)
-- **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones. Again, any Game Boy Pocket buttons will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc) / [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons)
-- **Game Boy Pocket Membranes:** Again, it is recommended to get Funnyplaying Game Boy Pocket membranes; however, any Game Boy Pocket membranes will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-pocket-silicone-button-contact-pad-membranes)
-- **Game Boy Pocket Lens:** Recommendation is to get a Game Boy Pocket glass lens [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses-1)
-- **Game Boy Pocket Battery Terminals:** You will need Game Boy Pocket battery terminals as the Game Boy Color ones will not fit [(Link)](https://retrogamerepairshop.com/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?_pos=3&_sid=2c6c2a553&_ss=r&variant=37893131305132 )
-
-# DC Power Board
-
-You are able to use the OEM Game Boy Color DC/DC Regulator Board with the SZ Pocket Color; however, there are modern options suggested below:
-
-- skimzor's SZ-REG *(coming soon)*
-- [marshallh's GBPP](https://github.com/marshallh/gbpp)
-- [leggomyfroggo's frogulator](https://www.etsy.com/shop/FroggoCustoms?ref=nla_listing_details)
+If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
 # License
 
