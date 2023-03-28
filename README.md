@@ -3,12 +3,6 @@ The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Color
 
 ![](images/pcb_front.jpeg)
 
-
-# Features
-
-- Simple 6 component installation
-- Customizable (see section below)
-
 # Disclaimer
 You will need to transfer components from a working Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
 
@@ -18,7 +12,7 @@ I have personally tested this PCB and successfully created a working SZ Pocket C
 
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
-# Purchase and Ordering
+# Ordering
 
 The SZ Pocket Color PCB will be available for purchase through Ko-fi and Etsy:
 
