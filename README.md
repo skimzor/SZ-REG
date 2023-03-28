@@ -23,7 +23,7 @@ You can also order the boards through PCBWay as a shared project (in any color y
 
 # PCB Bill of Materials & Assembly
 
-Assembly of this PCB requires micro-soldering experience. You will be required to solder a QFN chip.
+Assembly of this PCB requires micro-soldering experience; you will be required to solder a QFN chip as well as SMD components.
 
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
