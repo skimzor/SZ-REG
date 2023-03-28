@@ -3,7 +3,13 @@ The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Pocke
 
 ![](images/pcb_front.jpeg)
 
-# Ordering / Customization
+# Customization / Ordering
+
+*Customizable*
+
+If you would like a SZ Regulator with a customized silkscreen image, you can make a request through my Ko-fi.  I will convert an image that you provide, place it on the SZ Regulator, and send you the gerber so that you can order from a PCB fab.
+
+- [Ko-fi](https://ko-fi.com/skimzor)
 
 *Blank*
 
@@ -11,11 +17,7 @@ A version of the SZ Regulator without any silkscreen/image is available in this 
 
 ![](images/pcb_blank.png)
 
-*Customizable*
 
-If you would like a SZ Regulator with a customized silkscreen image, you can make a request through my Ko-fi.  I will convert an image that you provide, place it on the SZ Regulator, and send you the gerber so that you can order from a PCB fab.
-
-- [Ko-fi](https://ko-fi.com/skimzor)
 
 
 # Bill of Materials
