@@ -23,7 +23,7 @@ You can also order the boards through PCBWay as a shared project (in any color y
 
 # PCB Bill of Materials & Assembly
 
-As mentioned above in the disclaimer, assembly of this PCB requires micro-soldering experience.
+Assembly of this PCB requires micro-soldering experience. You will be required to solder a QFN chip.
 
 Since this PCB uses the original CGB schematics, you are able to directly transplant components from a donor console to create a working SZ Pocket Color.  Components can also be ordered through an electronic components distributor (e.g. digikey, mouser, etc.) and can be found in the Bill of Materials (BOM) unless otherwise noted as required from the donor CGB (e.g. CGB CPU, Crystal, etc.). 
 
