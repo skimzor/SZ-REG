@@ -3,16 +3,6 @@ The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Color
 
 ![](images/pcb_front.jpeg)
 
-# Features
-
-- 4-Layer Board with GND and PWR Planes
-- Conveniently-placed solder pads for aftermarket IPS screen kit controls
-- IR blasters relocated to where the contrast wheel would normally sit in the Game Boy Pocket 
-- Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision of the PCB)
-- Reduced component transfer from donor Game Boy Color console
-
-![](images/pcb_front.JPEG)
-![](images/pcb_back.JPEG)
 
 # Disclaimer
 You will need to transfer components from a working Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
