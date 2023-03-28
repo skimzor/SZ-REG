@@ -1,4 +1,4 @@
-# SZ Regulator (SZ-REG) PCB
+# SZ Regulator (SZ-REG)
 The SZ Regulator or SZ-REG is a simple 5V regulator to power your Game Boy Pocket or Game Boy Color. This power regulator is only compatible with IPS kits and cannot be used with OEM MGB/CGB screens
 
 ![](images/pcb_front.jpeg)
