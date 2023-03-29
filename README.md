@@ -26,7 +26,7 @@ A version of the SZ Regulator without any silkscreen/image is available in this 
 | C1 | 10uF | 0805 |
 | C1 | 10uF | 0805 |
 | C1 | 0.1uF | 0805 |
-| L1 | 2.2uH | 0805 |
+| L1 | 2.2uH | - |
 | U1 | TPS61202DSCR | WSON-10 |
 
 # Disclaimer
