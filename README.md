@@ -19,10 +19,15 @@ A version of the SZ Regulator without any silkscreen/image is available in this 
 
 # Bill of Materials
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Reference | Value | Package |
+| :---: | :---: | :---: |
+| C1 | 10uF | 0805 |
+| C1 | 0.1uF | 0805 |
+| C1 | 10uF | 0805 |
+| C1 | 10uF | 0805 |
+| C1 | 0.1uF | 0805 |
+| L1 | 2.2uH | 0805 |
+| U1 | TPS61202DSCR | WSON-10 |
 
 # Disclaimer
 
