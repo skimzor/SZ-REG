@@ -13,7 +13,7 @@ If you would like a SZ Regulator with a customized silkscreen image, you can mak
 
 *Blank*
 
-A version of the SZ Regulator without any silkscreen/image is available in this github as a gerber. Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of at least 1.0mm and in your favorite color.
+A version of the SZ Regulator without any silkscreen/image is available in this github as a gerber. Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of at least 1.6mm and in your favorite color.
 
 ![](images/pcb_blank.png)
 
